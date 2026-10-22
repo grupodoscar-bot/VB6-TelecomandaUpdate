@@ -1,16 +1,16 @@
 {
   "manager": {
-    "version": "1.2611.01.0001",
-    "url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2611.01.0001.zip",
-    "sha256": "ae4e2b5a369d7eb2e1d4c2911fbcc08611293578d3b4b06a186eb3ba57e40343",
-    "size": 44357079,
-    "notes": "Boton Buscar actualizacion, versiones en pantalla, aviso en bandeja, auto-update del Manager."
+    "version": "1.2610.22.2200",
+    "url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.22.2200.zip",
+    "sha256": "d36cb01bc7154e1f1590306facc68d4adece2cfc39868c114fcf7b7cf75aa276",
+    "size": 44357089,
+    "notes": "Arreglo del auto-update del Manager (ya no se queda atascado) y versiones con fecha correcta."
   },
   "core": {
-    "version": "1.2611.01.0001",
-    "url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.01.0001.zip",
-    "sha256": "a94d77a17d09546842b0cfaf2463f47ae874467a8a1938a5f8bb10d3ce563dd6",
-    "size": 44750658,
-    "notes": "Prueba Fase 3: Core firmado nuevo."
+    "version": "1.2610.22.2200",
+    "url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.22.2200.zip",
+    "sha256": "32fa6dec9a1d2300840883e903d6e0564c892498f9b3dffafc0569e00953150b",
+    "size": 44750745,
+    "notes": "Core firmado 1.2610.22.2200."
   }
 }
