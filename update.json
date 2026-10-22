@@ -2,9 +2,9 @@
   "manager": {
     "version": "1.2610.22.2200",
     "url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.22.2200.zip",
-    "sha256": "d36cb01bc7154e1f1590306facc68d4adece2cfc39868c114fcf7b7cf75aa276",
-    "size": 44357089,
-    "notes": "Arreglo del auto-update del Manager (ya no se queda atascado) y versiones con fecha correcta."
+    "sha256": "1c6e1ed76deb0135fa37a54caac8903d8bf36d665932c4cb5c22665e0941d2a0",
+    "size": 44357366,
+    "notes": "Arreglo del auto-update del Manager (cierre real + updater con rutas relativas, a prueba de acentos)."
   },
   "core": {
     "version": "1.2610.22.2200",
