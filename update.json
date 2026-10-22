@@ -1,16 +1,16 @@
 {
   "manager": {
-    "version": "1.2610.22.1701",
-    "url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.22.1701.zip",
+    "version": "1.2699.99.9999",
+    "url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_test.zip",
     "sha256": "",
     "size": 0,
-    "notes": "Versión inicial publicada."
+    "notes": "PRUEBA de detección en vivo (versión ficticia)."
   },
   "core": {
-    "version": "1.2610.22.1550",
-    "url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.22.1550.zip",
+    "version": "1.2699.99.9999",
+    "url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_test.zip",
     "sha256": "",
     "size": 0,
-    "notes": "Versión inicial publicada."
+    "notes": "PRUEBA de detección en vivo (versión ficticia)."
   }
 }
