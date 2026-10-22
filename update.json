@@ -1,16 +1,16 @@
 {
   "manager": {
-    "version": "1.2610.22.2200",
-    "url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.22.2200.zip",
-    "sha256": "1c6e1ed76deb0135fa37a54caac8903d8bf36d665932c4cb5c22665e0941d2a0",
-    "size": 44357366,
-    "notes": "Arreglo del auto-update del Manager (cierre real + updater con rutas relativas, a prueba de acentos)."
+    "version": "1.2610.22.2300",
+    "url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.22.2300.zip",
+    "sha256": "927f18cda2af223d4849b745ec12ace32f09ea15e1e6275a603007187b3b9edd",
+    "size": 44355408,
+    "notes": "Prueba final: actualizacion conjunta Manager + Core."
   },
   "core": {
-    "version": "1.2610.22.2200",
-    "url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.22.2200.zip",
-    "sha256": "32fa6dec9a1d2300840883e903d6e0564c892498f9b3dffafc0569e00953150b",
-    "size": 44750745,
-    "notes": "Core firmado 1.2610.22.2200."
+    "version": "1.2610.22.2300",
+    "url": "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.22.2300.zip",
+    "sha256": "ec4380a3bb78e74a72c846811e7e05e98a08654c6d645278a3c4e5e46574c06e",
+    "size": 44750742,
+    "notes": "Prueba final: actualizacion conjunta Manager + Core."
   }
 }
