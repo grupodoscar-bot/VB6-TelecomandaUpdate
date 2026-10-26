@@ -1,10 +1,10 @@
 {
     "manager":  {
-                    "version":  "1.2610.22.2300",
-                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.22.2300.zip",
-                    "sha256":  "927f18cda2af223d4849b745ec12ace32f09ea15e1e6275a603007187b3b9edd",
-                    "size":  44355408,
-                    "notes":  "Prueba final: actualizacion conjunta Manager + Core."
+                    "version":  "1.2610.26.1752",
+                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.26.1752.zip",
+                    "sha256":  "ce84f7023c095457952502517ad1e4d339f17b37a24ffb8ff73c4525df00c046",
+                    "size":  44358660,
+                    "notes":  "Manager: el selector de IP sube a la tarjeta de estado, acceso directo y QR del Monitor de cocina cuando esta activo, y las direcciones se abren con un clic."
                 },
     "core":  {
                  "version":  "1.2610.26.1655",
