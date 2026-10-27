@@ -1,16 +1,16 @@
 {
     "manager":  {
-                    "version":  "1.2610.26.1752",
-                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.26.1752.zip",
-                    "sha256":  "ce84f7023c095457952502517ad1e4d339f17b37a24ffb8ff73c4525df00c046",
-                    "size":  44358660,
-                    "notes":  "Manager: el selector de IP sube a la tarjeta de estado, acceso directo y QR del Monitor de cocina cuando esta activo, y las direcciones se abren con un clic."
+                    "version":  "1.2610.27.1050",
+                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.27.1050.zip",
+                    "sha256":  "aadc47ebffceaa29952b83f52e5d980ead87934dfa81fb6679b49318eda35f4b",
+                    "size":  44351895,
+                    "notes":  "Pagina de inicio nueva con los QR de cada servicio, el kiosko tambien en el Manager, y el monitor de cocina exige la version minima del programa de venta."
                 },
     "core":  {
-                 "version":  "1.2610.27.0943",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.27.0943.zip",
-                 "sha256":  "b0e1a8735bac2981e295d138550f5b92e5795a3cac51a1163f2a6fe53c87632e",
-                 "size":  44873254,
-                 "notes":  "El monitor de cocina lee siempre los tickets abiertos: si se quita una linea en el TPV, la cocina la ve tachada como ANULADA en vez de seguir ensenandola. Se quita la opcion de origen de los pedidos."
+                 "version":  "1.2610.27.1050",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.27.1050.zip",
+                 "sha256":  "211b9252747b5598042510430f62e73c0023fbf770686deb12de6fd5961b4437",
+                 "size":  44981779,
+                 "notes":  "Pagina de inicio nueva con los QR de cada servicio, el kiosko tambien en el Manager, y el monitor de cocina exige la version minima del programa de venta."
              }
 }
