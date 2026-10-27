@@ -7,10 +7,10 @@
                     "notes":  "Manager: el selector de IP sube a la tarjeta de estado, acceso directo y QR del Monitor de cocina cuando esta activo, y las direcciones se abren con un clic."
                 },
     "core":  {
-                 "version":  "1.2610.26.1655",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.26.1655.zip",
-                 "sha256":  "5cc8358c897c6afcedbaf5a00402b973478fe66e1f0eb3978a6abea853f41a7d",
-                 "size":  44873441,
-                 "notes":  "Monitor de cocina: ahora lee los tickets abiertos, asi que ve TODO lo que se pide, venga del TPV, de la telecomanda o del kiosko. Anulaciones a la vista con su motivo, mesas terminadas del turno, y el informe de tiempos separa la cola de la elaboracion y de la recogida.\nARREGLADO: la telecomanda no descontaba stock al pedir ni lo devolvia al anular.\nAl cambiar de empresa se vacia el historico del monitor y el servidor se reinicia solo (avisa antes)."
+                 "version":  "1.2610.27.0943",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.27.0943.zip",
+                 "sha256":  "b0e1a8735bac2981e295d138550f5b92e5795a3cac51a1163f2a6fe53c87632e",
+                 "size":  44873254,
+                 "notes":  "El monitor de cocina lee siempre los tickets abiertos: si se quita una linea en el TPV, la cocina la ve tachada como ANULADA en vez de seguir ensenandola. Se quita la opcion de origen de los pedidos."
              }
 }
