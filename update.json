@@ -1,16 +1,16 @@
 {
     "manager":  {
-                    "version":  "1.2610.27.1104",
-                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.27.1104.zip",
-                    "sha256":  "f8627e77aa7b29c7d5a8278260f3780c1f7c6c99953173c2c2e3e5b80be49256",
-                    "size":  44359900,
-                    "notes":  "Manager: se quita el boton de tema y la ventana va siempre en claro."
+                    "version":  "1.2610.27.1312",
+                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.27.1312.zip",
+                    "sha256":  "14e933911ea81e601003b41b194e9b0511fa9b18fc84bf07599cf20df46b1598",
+                    "size":  44357342,
+                    "notes":  "Arreglo de comandas duplicadas al recuperar la conexion. Mejoras del Manager (pagina de inicio, servicios, selector de IP y QR) y del monitor de cocina."
                 },
     "core":  {
-                 "version":  "1.2610.27.1050",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.27.1050.zip",
-                 "sha256":  "211b9252747b5598042510430f62e73c0023fbf770686deb12de6fd5961b4437",
-                 "size":  44981779,
-                 "notes":  "Pagina de inicio nueva con los QR de cada servicio, el kiosko tambien en el Manager, y el monitor de cocina exige la version minima del programa de venta."
+                 "version":  "1.2610.27.1312",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.27.1312.zip",
+                 "sha256":  "c213f1b9d1d884d61207f6e29695dd7fb4d55141471069a6d7e4c49ccefd5b0c",
+                 "size":  44981887,
+                 "notes":  "Arreglo de comandas duplicadas al recuperar la conexion. Mejoras del Manager (pagina de inicio, servicios, selector de IP y QR) y del monitor de cocina."
              }
 }
