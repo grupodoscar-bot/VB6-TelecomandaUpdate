@@ -1,16 +1,16 @@
 {
     "manager":  {
-                    "version":  "1.2610.27.1312",
-                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.27.1312.zip",
-                    "sha256":  "14e933911ea81e601003b41b194e9b0511fa9b18fc84bf07599cf20df46b1598",
-                    "size":  44357342,
-                    "notes":  "Arreglo de comandas duplicadas al recuperar la conexion. Mejoras del Manager (pagina de inicio, servicios, selector de IP y QR) y del monitor de cocina."
+                    "version":  "1.2610.27.1731",
+                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.27.1731.zip",
+                    "sha256":  "fa61db5f815fee3c7f190c3ad773be11d3bc672d03a0f8c837f637d009c4afc2",
+                    "size":  44407639,
+                    "notes":  "HTTPS opcional e instalar como app (PWA): certificado estable, ayuda paso a paso, iconos y pantalla de arranque nuevos. Arreglos del Manager."
                 },
     "core":  {
-                 "version":  "1.2610.27.1312",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.27.1312.zip",
-                 "sha256":  "c213f1b9d1d884d61207f6e29695dd7fb4d55141471069a6d7e4c49ccefd5b0c",
-                 "size":  44981887,
-                 "notes":  "Arreglo de comandas duplicadas al recuperar la conexion. Mejoras del Manager (pagina de inicio, servicios, selector de IP y QR) y del monitor de cocina."
+                 "version":  "1.2610.27.1731",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.27.1731.zip",
+                 "sha256":  "acb0be76ddaa4abc4a81b9fd424bc63fc8cdaa2127e617881b574ed9e9b3c51f",
+                 "size":  45614122,
+                 "notes":  "HTTPS opcional e instalar como app (PWA): certificado estable, ayuda paso a paso, iconos y pantalla de arranque nuevos. Arreglos del Manager."
              }
 }
