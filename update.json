@@ -1,10 +1,10 @@
 {
     "manager":  {
-                    "version":  "1.2610.27.1050",
-                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.27.1050.zip",
-                    "sha256":  "aadc47ebffceaa29952b83f52e5d980ead87934dfa81fb6679b49318eda35f4b",
-                    "size":  44351895,
-                    "notes":  "Pagina de inicio nueva con los QR de cada servicio, el kiosko tambien en el Manager, y el monitor de cocina exige la version minima del programa de venta."
+                    "version":  "1.2610.27.1104",
+                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.27.1104.zip",
+                    "sha256":  "f8627e77aa7b29c7d5a8278260f3780c1f7c6c99953173c2c2e3e5b80be49256",
+                    "size":  44359900,
+                    "notes":  "Manager: se quita el boton de tema y la ventana va siempre en claro."
                 },
     "core":  {
                  "version":  "1.2610.27.1050",
