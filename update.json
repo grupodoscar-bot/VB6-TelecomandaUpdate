@@ -1,16 +1,16 @@
 {
     "manager":  {
-                    "version":  "1.2610.28.1119",
-                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.28.1119.zip",
-                    "sha256":  "bf8676d46821d3aa1d7c54b205506470be24568092d3bc9c8a46f95a18f56e2c",
-                    "size":  44407614,
-                    "notes":  "Mover mesa: arreglado el bloqueo y la bandera de la mesa de destino, todo viaja a la mesa nueva. Avisos unificados en una banda arriba. Extras con un solo boton Aceptar."
+                    "version":  "1.2610.28.1129",
+                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.28.1129.zip",
+                    "sha256":  "3db3f3116ba888bae0becd8dd47ed5ed050bb1b36441aab6cb4056d8c7e16482",
+                    "size":  44407599,
+                    "notes":  "Mover mesa: libera la mesa de origen, se lleva todo a la nueva y vuelve al listado. Avisos nuevos: una sola banda arriba para toda la app. Extras: un unico boton Aceptar."
                 },
     "core":  {
-                 "version":  "1.2610.28.1119",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.28.1119.zip",
-                 "sha256":  "d226048b63c788c40317a80ac093be5ed6a714ddcd1f636764bf5e2a31f6e892",
-                 "size":  45614372,
-                 "notes":  "Mover mesa: arreglado el bloqueo y la bandera de la mesa de destino, todo viaja a la mesa nueva. Avisos unificados en una banda arriba. Extras con un solo boton Aceptar."
+                 "version":  "1.2610.28.1129",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.28.1129.zip",
+                 "sha256":  "d4a3955fd21ae9b01ca22545faec18d7043033150b6c15a3d2026802910b8d2b",
+                 "size":  45614287,
+                 "notes":  "Mover mesa: libera la mesa de origen, se lleva todo a la nueva y vuelve al listado. Avisos nuevos: una sola banda arriba para toda la app. Extras: un unico boton Aceptar."
              }
 }
