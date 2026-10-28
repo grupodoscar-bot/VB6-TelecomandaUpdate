@@ -1,16 +1,16 @@
 {
     "manager":  {
-                    "version":  "1.2610.28.1129",
-                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.28.1129.zip",
-                    "sha256":  "3db3f3116ba888bae0becd8dd47ed5ed050bb1b36441aab6cb4056d8c7e16482",
-                    "size":  44407599,
-                    "notes":  "Mover mesa: libera la mesa de origen, se lleva todo a la nueva y vuelve al listado. Avisos nuevos: una sola banda arriba para toda la app. Extras: un unico boton Aceptar."
+                    "version":  "1.2610.28.1608",
+                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.28.1608.zip",
+                    "sha256":  "25de10ce903b307cc04f2681d454bfcae9027d16cf563d00918b29d144bfbf59",
+                    "size":  44407613,
+                    "notes":  "Mover mesa: si la mesa destino ya tiene comanda, avisa y junta las dos. Cocina: aviso y cada linea con su mesa de origen. Enviar comanda siempre libera la mesa. Avisos del monitor flotantes."
                 },
     "core":  {
-                 "version":  "1.2610.28.1129",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.28.1129.zip",
-                 "sha256":  "d4a3955fd21ae9b01ca22545faec18d7043033150b6c15a3d2026802910b8d2b",
-                 "size":  45614287,
-                 "notes":  "Mover mesa: libera la mesa de origen, se lleva todo a la nueva y vuelve al listado. Avisos nuevos: una sola banda arriba para toda la app. Extras: un unico boton Aceptar."
+                 "version":  "1.2610.28.1608",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.28.1608.zip",
+                 "sha256":  "ebe4dd243e77de6d076904586608146f8ac4a9d3682e689eae46f94ea7955858",
+                 "size":  45620005,
+                 "notes":  "Mover mesa: si la mesa destino ya tiene comanda, avisa y junta las dos. Cocina: aviso y cada linea con su mesa de origen. Enviar comanda siempre libera la mesa. Avisos del monitor flotantes."
              }
 }
