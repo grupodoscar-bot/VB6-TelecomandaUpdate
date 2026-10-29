@@ -1,16 +1,16 @@
 {
     "manager":  {
-                    "version":  "1.2610.28.1608",
-                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.28.1608.zip",
-                    "sha256":  "25de10ce903b307cc04f2681d454bfcae9027d16cf563d00918b29d144bfbf59",
-                    "size":  44407613,
-                    "notes":  "Mover mesa: si la mesa destino ya tiene comanda, avisa y junta las dos. Cocina: aviso y cada linea con su mesa de origen. Enviar comanda siempre libera la mesa. Avisos del monitor flotantes."
+                    "version":  "1.2610.29.1231",
+                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.29.1231.zip",
+                    "sha256":  "5ca3104b956aebf17014cd5a92cbb727c9daec7daefaa6f2da199e06fa809516",
+                    "size":  44407622,
+                    "notes":  "Copia de cocina: la casilla ya funciona (impresoras 3/4/5 sacan copia de lo que va a cocina, tambien en anulaciones) y solo aparece donde tiene sentido. Instalacion nueva: solo la telecomanda activa; monitor y kiosko apagados. Manager: Estado servidor y Configuracion abren directos."
                 },
     "core":  {
-                 "version":  "1.2610.28.1608",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.28.1608.zip",
-                 "sha256":  "ebe4dd243e77de6d076904586608146f8ac4a9d3682e689eae46f94ea7955858",
-                 "size":  45620005,
-                 "notes":  "Mover mesa: si la mesa destino ya tiene comanda, avisa y junta las dos. Cocina: aviso y cada linea con su mesa de origen. Enviar comanda siempre libera la mesa. Avisos del monitor flotantes."
+                 "version":  "1.2610.29.1231",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.29.1231.zip",
+                 "sha256":  "9015a704712adb7b25f68570e743969aff9943f502f0013fe3aa4a75e769044e",
+                 "size":  45622393,
+                 "notes":  "Copia de cocina: la casilla ya funciona (impresoras 3/4/5 sacan copia de lo que va a cocina, tambien en anulaciones) y solo aparece donde tiene sentido. Instalacion nueva: solo la telecomanda activa; monitor y kiosko apagados. Manager: Estado servidor y Configuracion abren directos."
              }
 }
