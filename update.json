@@ -1,16 +1,16 @@
 {
     "manager":  {
-                    "version":  "1.2610.29.1231",
-                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.29.1231.zip",
-                    "sha256":  "5ca3104b956aebf17014cd5a92cbb727c9daec7daefaa6f2da199e06fa809516",
-                    "size":  44407622,
-                    "notes":  "Copia de cocina: la casilla ya funciona (impresoras 3/4/5 sacan copia de lo que va a cocina, tambien en anulaciones) y solo aparece donde tiene sentido. Instalacion nueva: solo la telecomanda activa; monitor y kiosko apagados. Manager: Estado servidor y Configuracion abren directos."
+                    "version":  "1.2610.29.1704",
+                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.29.1704.zip",
+                    "sha256":  "b8f4c7aabaa8cae0bbfdd710104bea835c1d0f6fdc9f8ce4d9825f4a1b4aaf9c",
+                    "size":  44407609,
+                    "notes":  "El Kiosko deja de mostrarse en el panel de configuracion mientras esta en desarrollo (se puede reactivar con la clave PanelMostrarKiosko). Las rutas del kiosko no cambian."
                 },
     "core":  {
-                 "version":  "1.2610.29.1231",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.29.1231.zip",
-                 "sha256":  "9015a704712adb7b25f68570e743969aff9943f502f0013fe3aa4a75e769044e",
-                 "size":  45622393,
-                 "notes":  "Copia de cocina: la casilla ya funciona (impresoras 3/4/5 sacan copia de lo que va a cocina, tambien en anulaciones) y solo aparece donde tiene sentido. Instalacion nueva: solo la telecomanda activa; monitor y kiosko apagados. Manager: Estado servidor y Configuracion abren directos."
+                 "version":  "1.2610.29.1704",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.29.1704.zip",
+                 "sha256":  "90b8881700721d523f38eb26b4d6e9da2aab4db716b685ba34c3338715df33e8",
+                 "size":  45622533,
+                 "notes":  "El Kiosko deja de mostrarse en el panel de configuracion mientras esta en desarrollo (se puede reactivar con la clave PanelMostrarKiosko). Las rutas del kiosko no cambian."
              }
 }
