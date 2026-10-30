@@ -1,16 +1,24 @@
 {
     "manager":  {
-                    "version":  "1.2610.29.1704",
-                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.29.1704.zip",
-                    "sha256":  "b8f4c7aabaa8cae0bbfdd710104bea835c1d0f6fdc9f8ce4d9825f4a1b4aaf9c",
-                    "size":  44407609,
-                    "notes":  "El Kiosko deja de mostrarse en el panel de configuracion mientras esta en desarrollo (se puede reactivar con la clave PanelMostrarKiosko). Las rutas del kiosko no cambian."
+                    "version":  "1.2610.30.1417",
+                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.30.1417.zip",
+                    "sha256":  "ed4c48e50945ae1c827f846c85d01eaf44533b22c586ad813709ce94b0b8d9aa",
+                    "size":  44408841,
+                    "notes":  "El aviso de actualizacion enseña ahora TODAS las novedades desde la version que tienes, no solo la ultima.",
+                    "history":  [
+                                    {
+                                        "version":  "1.2610.30.1417",
+                                        "date":  "2026-10-30",
+                                        "notes":  "El aviso de actualizacion enseña ahora TODAS las novedades desde la version que tienes, no solo la ultima."
+                                    }
+                                ]
                 },
     "core":  {
                  "version":  "1.2610.30.1401",
                  "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.30.1401.zip",
                  "sha256":  "c01666b878d883a457958fcfacaf1a725a8d370c01d82376d134c93ff3a269b3",
                  "size":  45640129,
-                 "notes":  "El monitor y los avisos de impresion llaman a cada impresora por el nombre que tiene puesto en la empresa, y la pagina de inicio va en tema claro."
+                 "notes":  "El monitor y los avisos de impresion llaman a cada impresora por el nombre que tiene puesto en la empresa, y la pagina de inicio va en tema claro.",
+                 "history":  null
              }
 }
