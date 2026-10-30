@@ -7,10 +7,10 @@
                     "notes":  "El Kiosko deja de mostrarse en el panel de configuracion mientras esta en desarrollo (se puede reactivar con la clave PanelMostrarKiosko). Las rutas del kiosko no cambian."
                 },
     "core":  {
-                 "version":  "1.2610.30.1253",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.30.1253.zip",
-                 "sha256":  "881349635441e3f20b5d74e2146d342d9c96ae1d31f0bac986e29d734e4e26a8",
-                 "size":  45638773,
-                 "notes":  "Productos agotados: la cocina marca lo que se ha acabado y deja de poderse pedir en la telecomanda y el kiosko."
+                 "version":  "1.2610.30.1401",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.30.1401.zip",
+                 "sha256":  "c01666b878d883a457958fcfacaf1a725a8d370c01d82376d134c93ff3a269b3",
+                 "size":  45640129,
+                 "notes":  "El monitor y los avisos de impresion llaman a cada impresora por el nombre que tiene puesto en la empresa, y la pagina de inicio va en tema claro."
              }
 }
