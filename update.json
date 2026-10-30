@@ -7,10 +7,10 @@
                     "notes":  "El Kiosko deja de mostrarse en el panel de configuracion mientras esta en desarrollo (se puede reactivar con la clave PanelMostrarKiosko). Las rutas del kiosko no cambian."
                 },
     "core":  {
-                 "version":  "1.2610.29.1704",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.29.1704.zip",
-                 "sha256":  "90b8881700721d523f38eb26b4d6e9da2aab4db716b685ba34c3338715df33e8",
-                 "size":  45622533,
-                 "notes":  "El Kiosko deja de mostrarse en el panel de configuracion mientras esta en desarrollo (se puede reactivar con la clave PanelMostrarKiosko). Las rutas del kiosko no cambian."
+                 "version":  "1.2610.30.1253",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.30.1253.zip",
+                 "sha256":  "881349635441e3f20b5d74e2146d342d9c96ae1d31f0bac986e29d734e4e26a8",
+                 "size":  45638773,
+                 "notes":  "Productos agotados: la cocina marca lo que se ha acabado y deja de poderse pedir en la telecomanda y el kiosko."
              }
 }
