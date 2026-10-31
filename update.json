@@ -1,15 +1,20 @@
 {
     "manager":  {
-                    "version":  "1.2610.30.1417",
-                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2610.30.1417.zip",
-                    "sha256":  "ed4c48e50945ae1c827f846c85d01eaf44533b22c586ad813709ce94b0b8d9aa",
-                    "size":  44408841,
-                    "notes":  "El aviso de actualizacion enseÃ±a ahora TODAS las novedades desde la version que tienes, no solo la ultima.",
+                    "version":  "1.2611.01.0003",
+                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2611.01.0003.zip",
+                    "sha256":  "59ea1449563873f6546c55008df5cb5934255d53a9e081d918030254b73b7141",
+                    "size":  44409461,
+                    "notes":  "Si no se puede comprobar la version (sin internet o con el acceso bloqueado) ahora se dice claro, en vez de dar por hecho que el equipo esta al dia.",
                     "history":  [
+                                    {
+                                        "version":  "1.2611.01.0003",
+                                        "date":  "2026-11-01",
+                                        "notes":  "Si no se puede comprobar la version (sin internet o con el acceso bloqueado) ahora se dice claro, en vez de dar por hecho que el equipo esta al dia."
+                                    },
                                     {
                                         "version":  "1.2610.30.1417",
                                         "date":  "2026-10-30",
-                                        "notes":  "El aviso de actualizacion enseÃ±a ahora TODAS las novedades desde la version que tienes, no solo la ultima."
+                                        "notes":  "El aviso de actualizacion enseÃƒÂ±a ahora TODAS las novedades desde la version que tienes, no solo la ultima."
                                     }
                                 ]
                 },
