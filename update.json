@@ -1,11 +1,21 @@
 {
     "manager":  {
-                    "version":  "1.2611.01.1253",
-                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2611.01.1253.zip",
-                    "sha256":  "998121b8f574f7c62d1b40bfb2b169a9e777cbe427b2564771079f3889417719",
-                    "size":  44409562,
-                    "notes":  "El Kiosco ya no aparece en el Manager cuando está oculto en la configuración: afecta a equipos instalados antes del 27 de octubre, que lo traían activado de serie.",
+                    "version":  "1.2611.01.1315",
+                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2611.01.1315.zip",
+                    "sha256":  "dcd277f570e3a1a7daa1508a8dda82fc99684a5493d70fc646021e3205db9907",
+                    "size":  44409599,
+                    "notes":  "Con un solo servicio activo, el QR vuelve a ocupar toda la tarjeta y queda centrado.",
                     "history":  [
+                                    {
+                                        "version":  "1.2611.01.1315",
+                                        "date":  "2026-11-01",
+                                        "notes":  "Con un solo servicio activo, el QR vuelve a ocupar toda la tarjeta y queda centrado."
+                                    },
+                                    {
+                                        "version":  "1.2611.01.1313",
+                                        "date":  "2026-11-01",
+                                        "notes":  "manager 1.2611.01.1313"
+                                    },
                                     {
                                         "version":  "1.2611.01.1253",
                                         "date":  "2026-11-01",
