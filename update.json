@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.01.1334",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.01.1334.zip",
-                 "sha256":  "9c6420bee02fdb75f45894a0bc783f4c6705ea8463e707545d47ab4a71fa683c",
-                 "size":  45695537,
-                 "notes":  "Aviso de cocina al tope: cuando una impresora acumula trabajo, la telecomanda lo enseña en las mesas y al enviar la comanda. No impide pedir y viene apagado: se enciende en Monitor de Cocina.",
+                 "version":  "1.2611.01.1431",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.01.1431.zip",
+                 "sha256":  "592ddda0490780c0de4aa41393c5cf1baf67e59193535dfafaaa9268681b0faa",
+                 "size":  45695667,
+                 "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.01.1431",
+                                     "date":  "2026-11-01",
+                                     "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario."
+                                 },
                                  {
                                      "version":  "1.2611.01.1334",
                                      "date":  "2026-11-01",
