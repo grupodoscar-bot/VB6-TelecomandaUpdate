@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.01.2225",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.01.2225.zip",
-                 "sha256":  "489472cdc7f8c8aac640db725b1dd7f38d76b4bafa468367a118cf071945d760",
-                 "size":  45715070,
-                 "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario.",
+                 "version":  "1.2611.01.2259",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.01.2259.zip",
+                 "sha256":  "872c4ac6fffbe19fb65cbb9a819252ae374dbe9b49c3b665b0de4ac38008e695",
+                 "size":  45712451,
+                 "notes":  "Mi Negocio (oculto, en pruebas): varias cajas por negocio, cifrado de lo que se guarda fuera y control de licencia por ordenador.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.01.2259",
+                                     "date":  "2026-11-01",
+                                     "notes":  "Mi Negocio (oculto, en pruebas): varias cajas por negocio, cifrado de lo que se guarda fuera y control de licencia por ordenador."
+                                 },
                                  {
                                      "version":  "1.2611.01.2225",
                                      "date":  "2026-11-01",
