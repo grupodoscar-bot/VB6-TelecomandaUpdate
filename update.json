@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.01.1525",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.01.1525.zip",
-                 "sha256":  "9c9d99f9d777c5e673fc0c03284228861ed7f8a18ae36d3f5c72132f6965033a",
-                 "size":  45699706,
+                 "version":  "1.2611.01.2018",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.01.2018.zip",
+                 "sha256":  "720522483ad92490a90328221723a4a8eaa3c8d688d0b48e1cf0301dc334d677",
+                 "size":  45707907,
                  "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.01.2018",
+                                     "date":  "2026-11-01",
+                                     "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario."
+                                 },
                                  {
                                      "version":  "1.2611.01.1525",
                                      "date":  "2026-11-01",
