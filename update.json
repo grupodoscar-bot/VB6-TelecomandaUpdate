@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2610.30.1401",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2610.30.1401.zip",
-                 "sha256":  "c01666b878d883a457958fcfacaf1a725a8d370c01d82376d134c93ff3a269b3",
-                 "size":  45640129,
-                 "notes":  "El monitor y los avisos de impresion llaman a cada impresora por el nombre que tiene puesto en la empresa, y la pagina de inicio va en tema claro.",
+                 "version":  "1.2611.01.1334",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.01.1334.zip",
+                 "sha256":  "9c6420bee02fdb75f45894a0bc783f4c6705ea8463e707545d47ab4a71fa683c",
+                 "size":  45695537,
+                 "notes":  "Aviso de cocina al tope: cuando una impresora acumula trabajo, la telecomanda lo enseña en las mesas y al enviar la comanda. No impide pedir y viene apagado: se enciende en Monitor de Cocina.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.01.1334",
+                                     "date":  "2026-11-01",
+                                     "notes":  "Aviso de cocina al tope: cuando una impresora acumula trabajo, la telecomanda lo enseña en las mesas y al enviar la comanda. No impide pedir y viene apagado: se enciende en Monitor de Cocina."
+                                 },
                                  {
                                      "version":  "1.2610.30.1401",
                                      "date":  "2026-10-30",
