@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.02.1412",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.02.1412.zip",
-                 "sha256":  "7a4ca1ab05454d469dd14318930b616ff1442030b51f7a0752bb5749e13cb7b9",
-                 "size":  45725608,
-                 "notes":  "Mi Negocio: la pantalla del dueno con graficos.",
+                 "version":  "1.2611.02.1426",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.02.1426.zip",
+                 "sha256":  "500b482f069b3885939b68a155fe60781a0615cc865615e52717ebfd54ee7d39",
+                 "size":  45725583,
+                 "notes":  "Mi Negocio: la pantalla del dueno se adapta mejor a ventanas estrechas.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.02.1426",
+                                     "date":  "2026-11-02",
+                                     "notes":  "Mi Negocio: la pantalla del dueno se adapta mejor a ventanas estrechas."
+                                 },
                                  {
                                      "version":  "1.2611.02.1412",
                                      "date":  "2026-11-02",
@@ -84,11 +89,6 @@
                                      "version":  "1.2611.01.1431",
                                      "date":  "2026-11-01",
                                      "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario."
-                                 },
-                                 {
-                                     "version":  "1.2611.01.1334",
-                                     "date":  "2026-11-01",
-                                     "notes":  "Aviso de cocina al tope: cuando una impresora acumula trabajo, la telecomanda lo enseña en las mesas y al enviar la comanda. No impide pedir y viene apagado: se enciende en Monitor de Cocina."
                                  }
                              ]
              }
