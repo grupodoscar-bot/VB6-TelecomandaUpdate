@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.02.1426",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.02.1426.zip",
-                 "sha256":  "500b482f069b3885939b68a155fe60781a0615cc865615e52717ebfd54ee7d39",
-                 "size":  45725583,
-                 "notes":  "Mi Negocio: la pantalla del dueno se adapta mejor a ventanas estrechas.",
+                 "version":  "1.2611.02.1433",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.02.1433.zip",
+                 "sha256":  "344e5c669ba69dce3da7e2a7357c4f681af1e980c2df0c8807d78f95a5fe460c",
+                 "size":  45725543,
+                 "notes":  "Mi Negocio: en ventana estrecha los bloques van uno debajo de otro.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.02.1433",
+                                     "date":  "2026-11-02",
+                                     "notes":  "Mi Negocio: en ventana estrecha los bloques van uno debajo de otro."
+                                 },
                                  {
                                      "version":  "1.2611.02.1426",
                                      "date":  "2026-11-02",
@@ -82,11 +87,6 @@
                                  },
                                  {
                                      "version":  "1.2611.01.1444",
-                                     "date":  "2026-11-01",
-                                     "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario."
-                                 },
-                                 {
-                                     "version":  "1.2611.01.1431",
                                      "date":  "2026-11-01",
                                      "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario."
                                  }
