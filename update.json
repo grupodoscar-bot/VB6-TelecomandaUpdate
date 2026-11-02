@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.01.2259",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.01.2259.zip",
-                 "sha256":  "872c4ac6fffbe19fb65cbb9a819252ae374dbe9b49c3b665b0de4ac38008e695",
-                 "size":  45712451,
-                 "notes":  "Mi Negocio (oculto, en pruebas): varias cajas por negocio, cifrado de lo que se guarda fuera y control de licencia por ordenador.",
+                 "version":  "1.2611.02.1409",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.02.1409.zip",
+                 "sha256":  "0c13d03b715dcaf105808a6333a9744c98cebdc6d51d7ec09d51168c3da96b78",
+                 "size":  45725575,
+                 "notes":  "Mi Negocio: la pantalla del dueno con graficos. Anillo de formas de pago con lo pendiente, desglose debajo, por caja y por cierre.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.02.1409",
+                                     "date":  "2026-11-02",
+                                     "notes":  "Mi Negocio: la pantalla del dueno con graficos. Anillo de formas de pago con lo pendiente, desglose debajo, por caja y por cierre."
+                                 },
                                  {
                                      "version":  "1.2611.01.2259",
                                      "date":  "2026-11-01",
