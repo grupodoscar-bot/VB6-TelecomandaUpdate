@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.02.1433",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.02.1433.zip",
-                 "sha256":  "344e5c669ba69dce3da7e2a7357c4f681af1e980c2df0c8807d78f95a5fe460c",
-                 "size":  45725543,
-                 "notes":  "Mi Negocio: en ventana estrecha los bloques van uno debajo de otro.",
+                 "version":  "1.2611.03.1221",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.03.1221.zip",
+                 "sha256":  "81baf8a99e034422ac1c15d19af421d4bd67f75e5dbdf5c755c07b4871957956",
+                 "size":  45725420,
+                 "notes":  "Mi Negocio: el ordenador vuelve a mandar los cierres si al servidor le faltan.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.03.1221",
+                                     "date":  "2026-11-03",
+                                     "notes":  "Mi Negocio: el ordenador vuelve a mandar los cierres si al servidor le faltan."
+                                 },
                                  {
                                      "version":  "1.2611.02.1433",
                                      "date":  "2026-11-02",
@@ -82,11 +87,6 @@
                                  },
                                  {
                                      "version":  "1.2611.01.1525",
-                                     "date":  "2026-11-01",
-                                     "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario."
-                                 },
-                                 {
-                                     "version":  "1.2611.01.1444",
                                      "date":  "2026-11-01",
                                      "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario."
                                  }
