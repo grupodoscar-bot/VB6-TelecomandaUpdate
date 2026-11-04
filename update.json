@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.04.1500",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.04.1500.zip",
-                 "sha256":  "a642306c40ead610d37352bdbee55042f4b7820d35326127823a1ced835f7abb",
-                 "size":  45729968,
-                 "notes":  "Extras en la comanda: botón para ponerlos, cada extra debajo de su plato y la ventana se abre con los que ya lleva. Las familias salen por su orden. Nuevas opciones en el panel para el botón de comanda.",
+                 "version":  "1.2611.04.1545",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.04.1545.zip",
+                 "sha256":  "662262042cc0e559d56d37c30d2927a5c287cb0bd2b074414bb2454fd5fd25d6",
+                 "size":  45729623,
+                 "notes":  "En la lista de mesas se ve qué camarero tiene cada mesa cogida, y las que lleva otro salen en amarillo. Rojo sigue siendo ocupada.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.04.1545",
+                                     "date":  "2026-11-04",
+                                     "notes":  "En la lista de mesas se ve qué camarero tiene cada mesa cogida, y las que lleva otro salen en amarillo. Rojo sigue siendo ocupada."
+                                 },
                                  {
                                      "version":  "1.2611.04.1500",
                                      "date":  "2026-11-04",
@@ -82,11 +87,6 @@
                                  },
                                  {
                                      "version":  "1.2611.01.2225",
-                                     "date":  "2026-11-01",
-                                     "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario."
-                                 },
-                                 {
-                                     "version":  "1.2611.01.2205",
                                      "date":  "2026-11-01",
                                      "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario."
                                  }
