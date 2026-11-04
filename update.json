@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.04.1214",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.04.1214.zip",
-                 "sha256":  "958cd347f4492f493b898fab9962acb32254d82e9cdba3cdd6eaba7fe90fae7a",
-                 "size":  45727806,
-                 "notes":  "Extras: ya hay un boton para ponerlos cuando no se abren solos, salen debajo de su plato y la ventana se abre con los que ya lleva. Las familias se ordenan por su campo Orden.",
+                 "version":  "1.2611.04.1500",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.04.1500.zip",
+                 "sha256":  "a642306c40ead610d37352bdbee55042f4b7820d35326127823a1ced835f7abb",
+                 "size":  45729968,
+                 "notes":  "Extras en la comanda: botón para ponerlos, cada extra debajo de su plato y la ventana se abre con los que ya lleva. Las familias salen por su orden. Nuevas opciones en el panel para el botón de comanda.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.04.1500",
+                                     "date":  "2026-11-04",
+                                     "notes":  "Extras en la comanda: botón para ponerlos, cada extra debajo de su plato y la ventana se abre con los que ya lleva. Las familias salen por su orden. Nuevas opciones en el panel para el botón de comanda."
+                                 },
                                  {
                                      "version":  "1.2611.04.1214",
                                      "date":  "2026-11-04",
@@ -82,11 +87,6 @@
                                  },
                                  {
                                      "version":  "1.2611.01.2205",
-                                     "date":  "2026-11-01",
-                                     "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario."
-                                 },
-                                 {
-                                     "version":  "1.2611.01.2018",
                                      "date":  "2026-11-01",
                                      "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario."
                                  }
