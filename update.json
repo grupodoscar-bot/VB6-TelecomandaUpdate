@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.04.1545",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.04.1545.zip",
-                 "sha256":  "662262042cc0e559d56d37c30d2927a5c287cb0bd2b074414bb2454fd5fd25d6",
-                 "size":  45729623,
-                 "notes":  "En la lista de mesas se ve qué camarero tiene cada mesa cogida, y las que lleva otro salen en amarillo. Rojo sigue siendo ocupada.",
+                 "version":  "1.2611.05.1122",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.05.1122.zip",
+                 "sha256":  "ab756b764571a7b0ad5a232199d2cff30fedf699b36626cedb543f06d8eb68cb",
+                 "size":  45742436,
+                 "notes":  "Zona En desarrollo para encender el Kiosko y Mi Negocio sin comandos, con aviso y confirmacion; al apagar ahi se apaga tambien el servicio. Mi Negocio con interruptor. Iconos en el menu del panel.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.05.1122",
+                                     "date":  "2026-11-05",
+                                     "notes":  "Zona En desarrollo para encender el Kiosko y Mi Negocio sin comandos, con aviso y confirmacion; al apagar ahi se apaga tambien el servicio. Mi Negocio con interruptor. Iconos en el menu del panel."
+                                 },
                                  {
                                      "version":  "1.2611.04.1545",
                                      "date":  "2026-11-04",
@@ -84,11 +89,6 @@
                                      "version":  "1.2611.01.2259",
                                      "date":  "2026-11-01",
                                      "notes":  "Mi Negocio (oculto, en pruebas): varias cajas por negocio, cifrado de lo que se guarda fuera y control de licencia por ordenador."
-                                 },
-                                 {
-                                     "version":  "1.2611.01.2225",
-                                     "date":  "2026-11-01",
-                                     "notes":  "Ajustes internos de pantallas que todavía no están a la vista. No cambia nada de lo que usas a diario."
                                  }
                              ]
              }
