@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.05.1122",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.05.1122.zip",
-                 "sha256":  "ab756b764571a7b0ad5a232199d2cff30fedf699b36626cedb543f06d8eb68cb",
-                 "size":  45742436,
-                 "notes":  "Zona En desarrollo para encender el Kiosko y Mi Negocio sin comandos, con aviso y confirmacion; al apagar ahi se apaga tambien el servicio. Mi Negocio con interruptor. Iconos en el menu del panel.",
+                 "version":  "1.2611.06.1340",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.06.1340.zip",
+                 "sha256":  "49f9e30121e93ecbd825c6093e90e0b6bf9ae8fb77a3931d3903c298c4cb5f5c",
+                 "size":  45742550,
+                 "notes":  "Extras: si la familia usa Incremento Extra, el extra cobra su PVP 5 tambien desde la telecomanda (igual que en el bar). La columna UsarIncrementoExtra se crea sola al arrancar.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.06.1340",
+                                     "date":  "2026-11-06",
+                                     "notes":  "Extras: si la familia usa Incremento Extra, el extra cobra su PVP 5 tambien desde la telecomanda (igual que en el bar). La columna UsarIncrementoExtra se crea sola al arrancar."
+                                 },
                                  {
                                      "version":  "1.2611.05.1122",
                                      "date":  "2026-11-05",
@@ -84,11 +89,6 @@
                                      "version":  "1.2611.02.1409",
                                      "date":  "2026-11-02",
                                      "notes":  "Mi Negocio: la pantalla del dueno con graficos. Anillo de formas de pago con lo pendiente, desglose debajo, por caja y por cierre."
-                                 },
-                                 {
-                                     "version":  "1.2611.01.2259",
-                                     "date":  "2026-11-01",
-                                     "notes":  "Mi Negocio (oculto, en pruebas): varias cajas por negocio, cifrado de lo que se guarda fuera y control de licencia por ordenador."
                                  }
                              ]
              }
