@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.19.1716",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.19.1716.zip",
-                 "sha256":  "f1febee5ee7534b07fe24c6ebce2bb210a2f3fe2dba1f5e34febc37b6ad1195b",
-                 "size":  45755018,
-                 "notes":  "El aviso de cocina sale igual que el del programa: tamanos de letra del formato, la hora correcta, rayas y recuadros, codigo QR y codigo de barras. Los extras siguen la cantidad de su plato. Los detalles de la empresa (Al Punto, Con Patatas...) se eligen tocando, sin teclear. Y si tienes una mesa abierta en otro movil, ahora te pregunta en vez de bloquearte.",
+                 "version":  "1.2611.19.1736",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.19.1736.zip",
+                 "sha256":  "838811f0c58ff60e9d8d91a4c481785e781f619b0c3c492fd7f2d978603c7039",
+                 "size":  45755084,
+                 "notes":  "El comprobante ya no saca los articulos marcados como \u0027no imprimir en el ticket final\u0027. En el aviso de cocina siguen saliendo.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.19.1736",
+                                     "date":  "2026-11-19",
+                                     "notes":  "El comprobante ya no saca los articulos marcados como \u0027no imprimir en el ticket final\u0027. En el aviso de cocina siguen saliendo."
+                                 },
                                  {
                                      "version":  "1.2611.19.1716",
                                      "date":  "2026-11-19",
@@ -84,11 +89,6 @@
                                      "version":  "1.2611.02.1426",
                                      "date":  "2026-11-02",
                                      "notes":  "Mi Negocio: la pantalla del dueno se adapta mejor a ventanas estrechas."
-                                 },
-                                 {
-                                     "version":  "1.2611.02.1412",
-                                     "date":  "2026-11-02",
-                                     "notes":  "Mi Negocio: la pantalla del dueno con graficos."
                                  }
                              ]
              }
