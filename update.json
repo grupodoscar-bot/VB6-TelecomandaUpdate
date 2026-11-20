@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.19.1736",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.19.1736.zip",
-                 "sha256":  "838811f0c58ff60e9d8d91a4c481785e781f619b0c3c492fd7f2d978603c7039",
-                 "size":  45755084,
-                 "notes":  "El comprobante ya no saca los articulos marcados como \u0027no imprimir en el ticket final\u0027. En el aviso de cocina siguen saliendo.",
+                 "version":  "1.2611.20.1114",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.20.1114.zip",
+                 "sha256":  "7f50e14d6d5799b37a0e88e3bf03cf152f7087377404b9eb93d4aa393668a77a",
+                 "size":  45766240,
+                 "notes":  "Mi Negocio: tema claro (y oscuro), de fabrica claro.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.20.1114",
+                                     "date":  "2026-11-20",
+                                     "notes":  "Mi Negocio: tema claro (y oscuro), de fabrica claro."
+                                 },
                                  {
                                      "version":  "1.2611.19.1736",
                                      "date":  "2026-11-19",
@@ -84,11 +89,6 @@
                                      "version":  "1.2611.02.1433",
                                      "date":  "2026-11-02",
                                      "notes":  "Mi Negocio: en ventana estrecha los bloques van uno debajo de otro."
-                                 },
-                                 {
-                                     "version":  "1.2611.02.1426",
-                                     "date":  "2026-11-02",
-                                     "notes":  "Mi Negocio: la pantalla del dueno se adapta mejor a ventanas estrechas."
                                  }
                              ]
              }
