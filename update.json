@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.20.1137",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.20.1137.zip",
-                 "sha256":  "ea7f921d61d1d800e42792210fda2f12fde029f13712de64c7c3910270ac8163",
-                 "size":  45765718,
-                 "notes":  "Mi Negocio: el color de la pantalla se elige en el panel.",
+                 "version":  "1.2611.20.1158",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.20.1158.zip",
+                 "sha256":  "b255cca2fbc068dcc2a2af90b844d5baa1dc2d4bfae072c7a6245333ea0b9d15",
+                 "size":  45768321,
+                 "notes":  "Mi Negocio: si el programa no contesta, sale como desconectado en vez de dar error.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.20.1158",
+                                     "date":  "2026-11-20",
+                                     "notes":  "Mi Negocio: si el programa no contesta, sale como desconectado en vez de dar error."
+                                 },
                                  {
                                      "version":  "1.2611.20.1137",
                                      "date":  "2026-11-20",
@@ -84,11 +89,6 @@
                                      "version":  "1.2611.04.1214",
                                      "date":  "2026-11-04",
                                      "notes":  "Extras: ya hay un boton para ponerlos cuando no se abren solos, salen debajo de su plato y la ventana se abre con los que ya lleva. Las familias se ordenan por su campo Orden."
-                                 },
-                                 {
-                                     "version":  "1.2611.03.1221",
-                                     "date":  "2026-11-03",
-                                     "notes":  "Mi Negocio: el ordenador vuelve a mandar los cierres si al servidor le faltan."
                                  }
                              ]
              }
