@@ -34,12 +34,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.20.1114",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.20.1114.zip",
-                 "sha256":  "7f50e14d6d5799b37a0e88e3bf03cf152f7087377404b9eb93d4aa393668a77a",
-                 "size":  45766240,
-                 "notes":  "Mi Negocio: tema claro (y oscuro), de fabrica claro.",
+                 "version":  "1.2611.20.1137",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.20.1137.zip",
+                 "sha256":  "ea7f921d61d1d800e42792210fda2f12fde029f13712de64c7c3910270ac8163",
+                 "size":  45765718,
+                 "notes":  "Mi Negocio: el color de la pantalla se elige en el panel.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.20.1137",
+                                     "date":  "2026-11-20",
+                                     "notes":  "Mi Negocio: el color de la pantalla se elige en el panel."
+                                 },
                                  {
                                      "version":  "1.2611.20.1114",
                                      "date":  "2026-11-20",
@@ -84,11 +89,6 @@
                                      "version":  "1.2611.03.1221",
                                      "date":  "2026-11-03",
                                      "notes":  "Mi Negocio: el ordenador vuelve a mandar los cierres si al servidor le faltan."
-                                 },
-                                 {
-                                     "version":  "1.2611.02.1433",
-                                     "date":  "2026-11-02",
-                                     "notes":  "Mi Negocio: en ventana estrecha los bloques van uno debajo de otro."
                                  }
                              ]
              }
