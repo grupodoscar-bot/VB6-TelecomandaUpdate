@@ -1,11 +1,16 @@
 {
     "manager":  {
-                    "version":  "1.2611.01.1315",
-                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2611.01.1315.zip",
-                    "sha256":  "dcd277f570e3a1a7daa1508a8dda82fc99684a5493d70fc646021e3205db9907",
-                    "size":  44409599,
-                    "notes":  "Con un solo servicio activo, el QR vuelve a ocupar toda la tarjeta y queda centrado.",
+                    "version":  "1.2611.20.1300",
+                    "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/manager/DoscarTelecomanda_1.2611.20.1300.zip",
+                    "sha256":  "bd2192d3fecaeaf597a0a6e1deda7555394e2a6d635d3715b8be333145b184f5",
+                    "size":  44410615,
+                    "notes":  "Mi Negocio: color claro u oscuro, elegible en la configuracion. El ordenador repone los cierres que le falten al servidor. Si el programa no contesta, sale como desconectado en vez de dar un error. Y la actualizacion deja de fallar con un 404 cuando el equipo tenia guardada una lista de versiones vieja.",
                     "history":  [
+                                    {
+                                        "version":  "1.2611.20.1300",
+                                        "date":  "2026-11-20",
+                                        "notes":  "Mi Negocio: color claro u oscuro, elegible en la configuracion. El ordenador repone los cierres que le falten al servidor. Si el programa no contesta, sale como desconectado en vez de dar un error. Y la actualizacion deja de fallar con un 404 cuando el equipo tenia guardada una lista de versiones vieja."
+                                    },
                                     {
                                         "version":  "1.2611.01.1315",
                                         "date":  "2026-11-01",
@@ -34,12 +39,17 @@
                                 ]
                 },
     "core":  {
-                 "version":  "1.2611.20.1158",
-                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.20.1158.zip",
-                 "sha256":  "b255cca2fbc068dcc2a2af90b844d5baa1dc2d4bfae072c7a6245333ea0b9d15",
-                 "size":  45768321,
-                 "notes":  "Mi Negocio: si el programa no contesta, sale como desconectado en vez de dar error.",
+                 "version":  "1.2611.20.1300",
+                 "url":  "https://raw.githubusercontent.com/grupodoscar-bot/VB6-TelecomandaUpdate/main/core/telecomandanueva_1.2611.20.1300.zip",
+                 "sha256":  "d11d70900c72d85ab2270501afc96a1020b2843889218398244eac7e7fb37d41",
+                 "size":  45768299,
+                 "notes":  "Mi Negocio: color claro u oscuro, elegible en la configuracion. El ordenador repone los cierres que le falten al servidor. Si el programa no contesta, sale como desconectado en vez de dar un error. Y la actualizacion deja de fallar con un 404 cuando el equipo tenia guardada una lista de versiones vieja.",
                  "history":  [
+                                 {
+                                     "version":  "1.2611.20.1300",
+                                     "date":  "2026-11-20",
+                                     "notes":  "Mi Negocio: color claro u oscuro, elegible en la configuracion. El ordenador repone los cierres que le falten al servidor. Si el programa no contesta, sale como desconectado en vez de dar un error. Y la actualizacion deja de fallar con un 404 cuando el equipo tenia guardada una lista de versiones vieja."
+                                 },
                                  {
                                      "version":  "1.2611.20.1158",
                                      "date":  "2026-11-20",
@@ -84,11 +94,6 @@
                                      "version":  "1.2611.04.1500",
                                      "date":  "2026-11-04",
                                      "notes":  "Extras en la comanda: botón para ponerlos, cada extra debajo de su plato y la ventana se abre con los que ya lleva. Las familias salen por su orden. Nuevas opciones en el panel para el botón de comanda."
-                                 },
-                                 {
-                                     "version":  "1.2611.04.1214",
-                                     "date":  "2026-11-04",
-                                     "notes":  "Extras: ya hay un boton para ponerlos cuando no se abren solos, salen debajo de su plato y la ventana se abre con los que ya lleva. Las familias se ordenan por su campo Orden."
                                  }
                              ]
              }
